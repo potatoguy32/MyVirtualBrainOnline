@@ -28,3 +28,10 @@
 ## Virtual Private Gateway (VPC Gateway)
 
 - Needed if you want to connect your AWS VPC with an on-premise Network.
+
+## Network Access Control List (NACLs)
+
+- Operating on the **subnet level** and are **stateless**.
+- They can define **block & allow rules**.
+- By default allow traffic for all ports in both directions.
+- Return traffic must be explicitly allowed.
