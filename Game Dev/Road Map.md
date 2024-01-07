@@ -1,3 +1,4 @@
+This roadmap considers learning Game development in Rust through following the book The Nature of Code by Daniel Shiffman
 1. **Learn Rust Basics:**
     - If you're new to Rust, start by learning the fundamentals of the language. The official **[Rust documentation](https://doc.rust-lang.org/book/)** is an excellent resource for beginners.
     - Work through Rust programming tutorials and exercises to get comfortable with its syntax, ownership system, and other key concepts.
