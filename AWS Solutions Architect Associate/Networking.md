@@ -6,7 +6,7 @@
 - **Multi-site:** An entire duplicate of the system in a different location (physical or virtual).
 ## VPC
 
-- Virtal Private Cloud. It's your own "piece" of the AWS cloud. 
+- **Virtal Private Cloud**. It's your own "piece" of the AWS cloud. 
 - Can span multiple AZs in a single region and contain multiple public and private subnets.
 - Contains its own CIDR range, in case there are overlapping VPC connections, a NAT is required to correctly map requests.
 - **Public subnet:** Has access to the internet (i.e. Contains a route to the internet gateway).
@@ -16,6 +16,7 @@
 
 - Rules how traffic can flow within your VPC.
 - Always contains a destination and a target, e.g. `0.0.0.0/0` (CIDR Destination) and `igw-1234567890`. The CIDR block contains all IPv4 addresses of the subnet and points them to the Internet Gateway.
+- Usually the target is the "vehicle" that will lead your service to the destination.
 - Attached to certain subnets.
 - There is a default route table (main route table) which will be associated with each newly created subnet as long as you don’t attach one by yourself.
 - The main route table can’t be deleted.
@@ -49,18 +50,49 @@
 ## CIDR (Classless Inter-Domain Routing)
 
 - Certain range of IP-Addresses.
+- The first four IP addresses and the last IP address in each subnet CIDR block are not available for you to use, and cannot be assigned to an instance.
 - Important to know how they are built, because they are used in different touch points, e.g. SGs.
 
 ## VPC Endpoints
 
 - Needed to access AWS Services which are not part of your VPC.
+- Traffic between VPC and other services does not ever leave Amazon Network.
 - There are different types.
-- **Gateway Endpoint** — for DynamoDB and S3.
-- **Interface Endpoint** — all other Services & are powered by AWS PrivateLink.
+- **Gateway Endpoint** — A gateway that is a target for a specified route in your route table (S3, Dynamo).
+- **Interface Endpoint** — An Elastic Network Interface (ENI) with a private IP address that serves as an entry point (use it for CloudFormation, CloudWatch, etc.). Are powered by AWS PrivateLink.
 
 ## NAT Gateway & Instance
+
 - Needed to connect to the public internet from your private subnets.
 - There are two different types.
 - **NAT Instance** — managed by the user with no default auto-scaling.
 - **NAT Gateway** — AWS Managed, scales based on demand, fewer administrations required, and higher availability compared to the NAT Instance.
+## VPC Peering
+
+- Connecting different VPCs.
+- Also possible to connect with VPCs of other accounts.
+- CIDR-ranges **should not overlap**.
+- Connections are **not transitive**, therefore `A ← Peering → B ← Peering → C` means that there is **no connection** between A and C.
+- You can not edit a peering connection once it has been stablished.
+- Can not attach or detach VPC peering connections.
+
+## VPC Flow Logs
+
+- Details about the IP traffic to and from network interfaces in a VPC. User can setup a flow log for specific services and decide whether to record accepted, rejected or all traffic.
+- Data is stored **not in real time** in S3 or as CloudWatch logs.
+- Once a flow log is created, its configuration can not be changed. 
+- Flow logs can not be enabled in VPCs with a peering connection unless both VPCs are in the same account.
+- The actual content of IP packets is not recorded on Flow Logs.
+
+## Transit Gateway
+
+- Hub for VPCs to merge multiple VPCs (could also include your on-premise VPC) into one giant VPC
+
+## Elastic IP Addresses (EIPs)
+
+- Can be moved from one instance to another within multiple VPCs in the same region.
+
+## Elastic Network Interface (ENI)
+
+## Elastic Network Adapter (ENA)
 
