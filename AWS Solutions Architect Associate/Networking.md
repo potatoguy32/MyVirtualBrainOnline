@@ -28,7 +28,9 @@
 
 ## Virtual Private Gateway (VPC Gateway)
 
+- Component on the AWS side that allows VPCs to receive multiple VPN connections.
 - Needed if you want to connect your AWS VPC with an on-premise Network.
+- 1.25 gbps throughput limit.
 
 ## Network Access Control List (NACLs)
 
@@ -50,7 +52,7 @@
 ## CIDR (Classless Inter-Domain Routing)
 
 - Certain range of IP-Addresses.
-- The first four IP addresses and the last IP address in each subnet CIDR block are not available for you to use, and cannot be assigned to an instance.
+- The first four IP addresses and the last IP address in each CIDR block are not available for you to use, and cannot be assigned to an instance.
 - Important to know how they are built, because they are used in different touch points, e.g. SGs.
 
 ## VPC Endpoints
@@ -63,7 +65,7 @@
 
 ## NAT Gateway & Instance
 
-- Needed to connect to the public internet from your private subnets.
+- Needed to connect private resources to public internet or other AWS resources without exposing their private IP address.
 - There are two different types.
 - **NAT Instance** — managed by the user with no default auto-scaling.
 - **NAT Gateway** — AWS Managed, scales based on demand, fewer administrations required, and higher availability compared to the NAT Instance.
@@ -86,7 +88,7 @@
 
 ## Transit Gateway
 
-- Hub for VPCs to merge multiple VPCs (could also include your on-premise VPC) into one giant VPC
+- Hub to connect multiple resources through distinct peering relationships (VPN, Direct Connect, VPC Peering, etc.).
 
 ## Elastic IP Addresses (EIPs)
 
@@ -94,5 +96,11 @@
 
 ## Elastic Network Interface (ENI)
 
+- Attach multiple IP addresses to the same instance.
+
 ## Elastic Network Adapter (ENA)
+
+- Enhcance the network capabilities of your instances.
+- Allows you to fully take advantage of bandwith on distributed network workloads.
+- Enables IP packages to skip going through the CPU and directly delivered to the application.
 
