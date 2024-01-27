@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d33c8697c94f7bf0",
+        "id": "1e1306c1e505d910",
         "type": "tabs",
         "children": [
           {
-            "id": "b594736a29424392",
+            "id": "7f951893e04d2755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect Associate/Networking.md",
+                "file": "Code Utils/Regex.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "57c2aac3cf6388fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect Associate/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect Associate/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS Solutions Architect Associate/Networking.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,13 +153,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee7ed16d82b8f04b",
+  "active": "57c2aac3cf6388fd",
   "lastOpenFiles": [
-    "Game Dev/Road Map.md",
+    "Code Utils/workflow_diagram.excalidraw.md",
+    "Excalidraw/mas_menos_como_funcionan_las_rest_apis.excalidraw.md",
+    "Code Utils/Regex.md",
+    "Code Utils/Untitled.md",
+    "Code Utils/Iterators.md",
+    "Diplomado Ciencia de Datos/Proyecto Final.md",
     "AWS Solutions Architect Associate/Networking.md",
     "README.md",
-    "Code Utils/Iterators.md",
-    "AWS Solutions Architect Associate",
-    "Code Utils/Regex.md"
+    "Game Dev/Road Map.md",
+    "Diplomado Ciencia de Datos/Introducción a la Ciencia de Datos.md",
+    "Excalidraw/Drawing 2024-01-20 12.43.01.excalidraw.md",
+    "Excalidraw",
+    "Diplomado Ciencia de Datos",
+    "AWS Solutions Architect Associate"
   ]
 }
