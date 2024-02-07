@@ -1,0 +1,12 @@
+- Diseño / Optimización de una red de supply chain.
+	- https://www.amazon.science/publications/scalable-timing-aware-network-design-via-lagrangian-decomposition
+- https://www.amazon.science/publications/experimental-designs-for-heteroskedastic-variance
+- Data Quality tool.
+- Time Series forecasting.
+	- https://www.amazon.science/publications/probabilistic-demand-forecasting-with-graph-neural-networks
+- Self playing video game.
+- Sistema de recomendaciones de inversión
+	- Análisis sentimental (noticias) + fundamental (reportes / análisis financier) + técnico (Precios históricos)
+	- https://www.amazon.science/publications/fundrecllm-fund-recommendation-based-on-financial-news-and-research-analyst-report
+	- https://python.langchain.com/docs/get_started/introduction
+	- Optimización de la distribución de un portafolio de inversión.

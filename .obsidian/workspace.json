@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1306c1e505d910",
+        "id": "58cbc14b24e7fd47",
         "type": "tabs",
         "children": [
           {
-            "id": "7f951893e04d2755",
+            "id": "d033223f58ce0d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Utils/Regex.md",
+                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "57c2aac3cf6388fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.md"
+              }
             }
           }
         ]
@@ -149,25 +144,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57c2aac3cf6388fd",
+  "active": "d033223f58ce0d7b",
   "lastOpenFiles": [
-    "Code Utils/workflow_diagram.excalidraw.md",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.tex",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.pdf",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/~$area 2.docx",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.docx",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.pandoc.md",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.html",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.md",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones/mockup.excalidraw.md",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tarea 1/~$comendación de fondos basado en noticias financiera y reporte de análisis de investigación..docx",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..docx",
+    "Excalidraw/Drawing 2024-02-03 12.38.44.excalidraw.md",
     "Excalidraw/mas_menos_como_funcionan_las_rest_apis.excalidraw.md",
-    "Code Utils/Regex.md",
-    "Code Utils/Untitled.md",
-    "Code Utils/Iterators.md",
-    "Diplomado Ciencia de Datos/Proyecto Final.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones/Untitled.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Propuestas.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones",
+    "Diplomado Ciencia de Datos/Proyecto Final",
+    "fundrecllm_diagram.png",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tarea 1/Pasted image 20240203112409.png",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Apuntes.md",
     "AWS Solutions Architect Associate/Networking.md",
-    "README.md",
+    "Code Utils/Regex.md",
+    "Code Utils/Iterators.md",
     "Game Dev/Road Map.md",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos",
+    "Untitled.canvas",
+    "Diplomado Ciencia de Datos/Ejercicios.md",
+    "Code Utils/workflow_diagram.excalidraw.md",
+    "Code Utils/Untitled.md",
+    "README.md",
     "Diplomado Ciencia de Datos/Introducción a la Ciencia de Datos.md",
-    "Excalidraw/Drawing 2024-01-20 12.43.01.excalidraw.md",
-    "Excalidraw",
-    "Diplomado Ciencia de Datos",
-    "AWS Solutions Architect Associate"
+    "Excalidraw/Drawing 2024-01-20 12.43.01.excalidraw.md"
   ]
 }
