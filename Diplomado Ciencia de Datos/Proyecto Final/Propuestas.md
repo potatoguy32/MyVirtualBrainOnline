@@ -6,7 +6,11 @@
 	- https://www.amazon.science/publications/probabilistic-demand-forecasting-with-graph-neural-networks
 - Self playing video game.
 - Sistema de recomendaciones de inversión
-	- Análisis sentimental (noticias) + fundamental (reportes / análisis financier) + técnico (Precios históricos)
 	- https://www.amazon.science/publications/fundrecllm-fund-recommendation-based-on-financial-news-and-research-analyst-report
 	- https://python.langchain.com/docs/get_started/introduction
-	- Optimización de la distribución de un portafolio de inversión.
+	- https://polygon.io/pricing
+	- https://www.marketaux.com/pricing
+	- https://rapidapi.com/products/pricing/
+	- https://www.articlextractor.com/
+	- https://www.kaggle.com/datasets/notlucasp/financial-news-headlines/data
+	- https://etfdb.com/etfs/

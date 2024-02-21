@@ -1,0 +1,23 @@
+## Metodologías 
+- KDD: Knowledge Discovery in Databases
+- CRIPS-DM: Cross-Industry Standard Process for Data Mining
+- TDSP: Team Data Science Process
+- BSPF: Business Science Problem Framework
+## Herramientas de la minería de datos
+- Orange
+	- Análisis exploratorio
+	- Visualización
+	- Integración con Python
+- RapidMiner
+	- Ambiente de experimentos
+	- Integración gráfica de datos
+	- Análisis de datos y motor para minería de datos
+- Weka
+	- Procesamiento de datos para machine learning
+	- Requiere tener los datos consolidados en un formato en particular
+- JhepWork
+	- Ploteos científicos 2D y 3D.
+- KNIME
+	- Enfocado en la creación de pipelines de datos 
+	- Se pueden seleccionar fragmentos específicos del pipe
+	- Integración de plugins

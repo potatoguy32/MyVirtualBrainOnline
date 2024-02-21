@@ -13,7 +13,4 @@ $Pr(local|ganar) = \frac{Pr(ganar, local)}{Pr(ganar)} = \frac{Pr(ganar|local) \c
 $Pr(X=x) = \frac{1}{3}, x=1, 2, 3$
 - $E(X)=\frac{1+2+3}{3}=2$
 - $Var(X)=E(X^2)-E(X){^2}=\frac{1+4+9}{3}-4=\frac{2}{3}$
-## Ejercicio 4
-Para que $f(x)$ sea una función de densidad, $\int_0{^{3}f(x)=1}\rightarrow \int_{0}^{3}c=1 \rightarrow  c=\frac{1}{3}$
-- $E(X)=\int_{0}^{3} \frac{x}{3}=\frac{3}{2}$
-- $Var(X)=E(X^2)-E(X){^2}=\int_{0}^{3} \frac{x^{2}}{3} - \frac{9}{4} = \frac{3}{4}$
+
