@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7c232920089e51",
+        "id": "5b30c37609ece8cb",
         "type": "tabs",
         "children": [
           {
-            "id": "104e3b357f5c880d",
+            "id": "061370f8e7ed9bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md",
+                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md",
+                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md",
+                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md"
+                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md"
               }
             }
           }
@@ -148,46 +148,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "104e3b357f5c880d",
+  "active": "061370f8e7ed9bc9",
   "lastOpenFiles": [
-    "Quick notes.md",
-    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md",
-    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Cruz_Vilchis_Alan_Modulo5_Practica1.5.pptx",
+    "Pasted image 20240524183452.png",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/FIBRAs.md",
+    "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
+    "Diplomado Ciencia de Datos/Módulo 11",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup.excalidraw.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Propuestas.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones/mapa_mental.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-01 22.21.27.excalidraw.md",
+    "Diplomado Ciencia de Datos/Módulo 7",
+    "Game Dev/Road Map.md",
+    "AWS Solutions Architect Associate/Sample questions.md",
+    "README.md",
+    "Code Utils/Iterators.md",
+    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Cuestionario final.md",
+    "Diplomado Ciencia de Datos/Módulo 4. Metodologías para la ciencia de datos/Notas.md",
     "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Librerías de python para DS.md",
+    "Diplomado Ciencia de Datos/Módulo 4. Metodologías para la ciencia de datos/Ejercicio_roles.excalidraw.md",
+    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md",
+    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Cruz_Vilchis_Alan_ejercicio1.pdf",
+    "fundrecllm_diagram.png",
+    "Pasted image 20240217095812.png",
+    "Quick notes.md",
+    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Cruz_Vilchis_Alan_Modulo5_Practica1.5.pptx",
     "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/pptFE20.tmp",
     "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/~$Presentación numpy.pptx",
     "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Presentación numpy.pptx",
-    "Pasted image 20240217095812.png",
-    "Diplomado Ciencia de Datos/Módulo 4. Metodologías para la ciencia de datos/Notas.md",
     "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python",
-    "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones/mockup.excalidraw.md",
-    "fundrecllm_diagram.png",
     "Excalidraw/mas_menos_como_funcionan_las_rest_apis.excalidraw.md",
-    "Diplomado Ciencia de Datos/Módulo 4. Metodologías para la ciencia de datos/Ejercicio_roles.excalidraw.md",
     "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.md",
     "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Cruz_Vilchis_Alan_ejercicio1.pdf",
-    "Diplomado Ciencia de Datos/Proyecto Final/Propuestas.md",
     "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Ejercicio 1.md",
-    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Cruz_Vilchis_Alan_ejercicio1.pdf",
     "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/CruzVilchis_Alan_ejercicio1.pdf",
-    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Cuestionario final.md",
     "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones/Untitled.md",
-    "Diplomado Ciencia de Datos/Módulo 4. Metodologías para la ciencia de datos",
-    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos",
     "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Apuntes.md",
     "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.pandoc.md",
     "Excalidraw/Drawing 2024-02-03 12.38.44.excalidraw.md",
     "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tarea 1/Pasted image 20240203112409.png",
     "AWS Solutions Architect Associate/Networking.md",
     "Code Utils/Regex.md",
-    "Code Utils/Iterators.md",
-    "Game Dev/Road Map.md",
-    "Untitled.canvas",
-    "Diplomado Ciencia de Datos/Ejercicios.md",
-    "Code Utils/workflow_diagram.excalidraw.md",
-    "Code Utils/Untitled.md",
-    "README.md",
-    "Diplomado Ciencia de Datos/Introducción a la Ciencia de Datos.md",
-    "Excalidraw/Drawing 2024-01-20 12.43.01.excalidraw.md"
+    "Untitled.canvas"
   ]
 }
