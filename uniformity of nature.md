@@ -1,0 +1,2 @@
+The assumption that instances, of which we have had no experience, must resemble those, of which we have had experience, and that the course of nature continues always uniformly the same.
+This concept arises from [[the problem of induction]]

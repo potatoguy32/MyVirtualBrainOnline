@@ -19,6 +19,18 @@
 
 
 ## Tarea
-Cluster creado 
+SS del cluster creado 
 ![[Pasted image 20240524183452.png]]
+
+SS del historial de jobs de hadoop.
+![[Pasted image 20240524200635.png]]
+
+SS de la información de Sirilo en el cluster
+![[Pasted image 20240524200203.png]]
+
+SS de los bloques almacenando la data SIRILO
+![[Pasted image 20240524201054.png]]
+
+SS del segundo history 
+![[Pasted image 20240524203503.png]]
 

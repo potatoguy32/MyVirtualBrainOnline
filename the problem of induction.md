@@ -1,0 +1,2 @@
+We generally think that the observations we make are able to justify some expectations or predictions about observations we have not yet made, as well as general claims that go beyond the observed.
+Hole philosophical paper [here](https://plato.stanford.edu/entries/induction-problem/)

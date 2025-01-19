@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5b30c37609ece8cb",
+        "id": "22cff5a1f60b1c12",
         "type": "tabs",
         "children": [
           {
-            "id": "061370f8e7ed9bc9",
+            "id": "f7e2d5760839d110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "mockup.excalidraw"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +66,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "299194c8b3f7c753",
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
+                "file": "Learning/Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Courses"
             }
           },
           {
@@ -102,10 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
+                "file": "Learning/Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Courses"
             }
           },
           {
@@ -116,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md"
-              }
+                "file": "Learning/Courses.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Courses"
             }
           }
         ]
@@ -148,47 +162,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "061370f8e7ed9bc9",
+  "active": "f7e2d5760839d110",
   "lastOpenFiles": [
-    "Pasted image 20240524183452.png",
-    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/FIBRAs.md",
-    "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
-    "Diplomado Ciencia de Datos/Módulo 11",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup_cloud.excalidraw.md",
     "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup.excalidraw.md",
-    "Diplomado Ciencia de Datos/Proyecto Final/Propuestas.md",
-    "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones/mapa_mental.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-01 22.21.27.excalidraw.md",
-    "Diplomado Ciencia de Datos/Módulo 7",
-    "Game Dev/Road Map.md",
-    "AWS Solutions Architect Associate/Sample questions.md",
-    "README.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup_cloud.excalidraw.png",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/FIBRAs.md",
+    "Learning/Computational Cognitive Science/Foundations of Inductive learning.md",
+    "Dev stuff/Data modeling techniques.md",
+    "Dev stuff/Topics.md",
     "Code Utils/Iterators.md",
-    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Cuestionario final.md",
-    "Diplomado Ciencia de Datos/Módulo 4. Metodologías para la ciencia de datos/Notas.md",
-    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Librerías de python para DS.md",
-    "Diplomado Ciencia de Datos/Módulo 4. Metodologías para la ciencia de datos/Ejercicio_roles.excalidraw.md",
-    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Recomendación de fondos basado en noticias financiera y reporte de análisis de investigación..md",
-    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Cruz_Vilchis_Alan_ejercicio1.pdf",
-    "fundrecllm_diagram.png",
-    "Pasted image 20240217095812.png",
-    "Quick notes.md",
-    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Cruz_Vilchis_Alan_Modulo5_Practica1.5.pptx",
-    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/pptFE20.tmp",
-    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/~$Presentación numpy.pptx",
-    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Presentación numpy.pptx",
-    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python",
-    "Excalidraw/mas_menos_como_funcionan_las_rest_apis.excalidraw.md",
-    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.md",
-    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Cruz_Vilchis_Alan_ejercicio1.pdf",
-    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Ejercicio 1.md",
-    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/CruzVilchis_Alan_ejercicio1.pdf",
-    "Diplomado Ciencia de Datos/Proyecto Final/Sistema de Recomendación de Inversiones/Untitled.md",
-    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Apuntes.md",
-    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tareas/Tarea 2.pandoc.md",
-    "Excalidraw/Drawing 2024-02-03 12.38.44.excalidraw.md",
-    "Diplomado Ciencia de Datos/Módulo 3. Estadística y probabilidad para ciencia de datos/Tarea 1/Pasted image 20240203112409.png",
-    "AWS Solutions Architect Associate/Networking.md",
+    "Dev stuff",
     "Code Utils/Regex.md",
+    "the problem of induction.md",
+    "Learning/Computational Cognitive Science/Inductive bias.md",
+    "Learning/Computational Cognitive Science/Marr's three levels.md",
+    "Learning/Computational Cognitive Science/PAC theorem.md",
+    "Learning/Computational Cognitive Science/Introduction.md",
+    "Learning/Computational Cognitive Science/Readings.md",
+    "uniformity of nature.md",
+    "Deductive reasoning.md",
+    "Excalidraw/mas_menos_como_funcionan_las_rest_apis.excalidraw.md",
+    "Learning/Courses.md",
+    "Excalidraw/TCN.excalidraw.md",
+    "Learning/Computational Cognitive Science",
+    "Learning/Cognitive/Untitled.md",
+    "Learning/Cognitive",
+    "Game Dev/Road Map.md",
+    "Diplomado Ciencia de Datos/Módulo 11/Clase 1.md",
+    "Learning/Linear Algebra",
+    "Learning/Analysis 1",
+    "Learning",
+    "Excalidraw/Drawing 2024-05-28 22.44.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-01 22.21.27.excalidraw.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Propuestas.md",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup_excalidraw.png",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup_excalidraw_last.png",
+    "Diplomado Ciencia de Datos/Proyecto Final/Fibritas/mockup.excalidraw.png",
+    "Pasted image 20240524203503.png",
+    "Pasted image 20240524201054.png",
+    "Pasted image 20240524200635.png",
+    "Pasted image 20240524200203.png",
+    "Pasted image 20240524194858.png",
+    "Pasted image 20240524183452.png",
+    "Diplomado Ciencia de Datos/Módulo 11",
+    "Diplomado Ciencia de Datos/Módulo 7",
+    "Diplomado Ciencia de Datos/Módulo 2. Matemática necesaria para la ciencia de datos/Cruz_Vilchis_Alan_ejercicio1.pdf",
+    "Diplomado Ciencia de Datos/Módulo 5. Manipulación y visualización de datos con Python/Cruz_Vilchis_Alan_Modulo5_Practica1.5.pptx",
     "Untitled.canvas"
   ]
 }
