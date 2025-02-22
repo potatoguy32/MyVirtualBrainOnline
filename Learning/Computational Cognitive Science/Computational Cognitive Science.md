@@ -1,0 +1,24 @@
+## [[Foundations of Inductive learning]]
+- Induction learning means rigorously analyzing learnability. 
+	- Explains when and why learning can work
+	- Shows clearly the need for inductive bias and gives a formal basis of [[Occam's razor]]
+- [[Marr's three levels]] - Information processing can be abstracted in three levels.
+	- What is the goal?
+	- How information is transformed?
+	- How is the system realized?
+- Causal induction - Causal theories come from hypotheses supported by experience
+- Probably Approximately Correct
+	- The only way to prove a theory is to wait to infinity, so we settle being "right enough"
+	- How much information doe we need to be "right enough"?
+- Can learning occur under weaker conditions? 
+- [[Inductive Bias]] are the levers we can move to make and algorithm learn
+- [[Fodor's challenge]] states that significant parts of the mind are structured in terms of modules defined by their causal and functional roles. These modules are relatively independent of each other and of the "central processing" part of the mind, which has a more global and less "domain specific" character. Does mental states have a causal, externally determined aspect?
+## [[Knowledge representation]]
+- Spatial representation
+	- [[Multi dimensional scaling]]
+	- [[PCA]]
+- Tree representation (nested data)
+	- [[Tree based models]] (additive trees)
+	- [[Clustering]] (hierarchical agglomerative clustering)
+- Feature representation
+	- [[Clustering]] (Additive)

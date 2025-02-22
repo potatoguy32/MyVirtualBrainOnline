@@ -19,9 +19,9 @@
 - We rely in [[uniformity of nature]], after additional knowledge is added, we might change our postures.
 - Check [[the problem of induction]] for a cool explanation on induction.
 - We can’t learn abstractions from data if in some sense we didn’t already know what to look for. 
-- all inductive learning seems to require the constraints of a hypothesis space
+- All inductive learning seems to require the constraints of a hypothesis space
 - Fodors' critique:
-	- This isn’t really concept learning, it’s just belief fixation.
+	- "This isn’t really concept learning, it’s just belief fixation".
 	- Since we are starting from assumptions and hypotheses the learner already has the concept, and is just forming a new belief about how to respond on particular situations.
 
 ## Causal theories

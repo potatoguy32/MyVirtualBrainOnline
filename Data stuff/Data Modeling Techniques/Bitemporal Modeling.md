@@ -1,0 +1,7 @@
+Bitemporal modeling is a specialized data modeling technique designed to handle historical data along two distinct timelines. This approach enables organizations to access data from different vantage points in time and allows for the recreation of past reports as they actually appeared, as well as how they should have appeared, given any corrections made to the data after its creation. Bitemporal modeling is particularly useful in sectors like financial reporting, where maintaining accurate historical records is critical.
+By using bitemporal structures as the fundamental components, this modeling technique results in databases with a consistent type of temporality for all data. Focusing on the completeness and accuracy of data, bitemporal modeling allows for the creation of comprehensive audit trails. All data becomes immutable, enabling queries to provide the most accurate data possible, data as it was known at any point in time, and information about when and why the most accurate data changed.
+
+## Use cases
+- You are managing "live" data that keeps changing its state along time and need to keep track of these changes.
+- Accuracy is a most in your workflows.
+- You work with either relational databases or graph databases.
